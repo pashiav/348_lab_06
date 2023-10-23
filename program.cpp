@@ -18,7 +18,7 @@ int main() {
 
     input(matrixA, matrixB, size, "matrix_input.txt");
 
-    std::cout << "Your name" << std::endl;
+    std::cout << "Pashia Vang" << std::endl;
     std::cout << "Lab #6: Matrix manipulation" << std::endl;
 
     std::cout << "Matrix A:" << std::endl;
